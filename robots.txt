@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://renov-toit.vercel.app/sitemap.xml
