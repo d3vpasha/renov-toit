@@ -39,3 +39,4 @@ Puis ouvrir http://localhost:8000.
 | Version | Date | Direction visuelle |
 |---|---|---|
 | v1 | 2026-10-14 | Bleu ardoise et terre cuite, hero en deux colonnes avec carte des qualifications, cartes de services |
+| v2 | 2026-10-14 | Éditorial magazine sur papier crème, rouge tuile vieillie et vert mousse ; logo maison au trait avec monogramme RT ; hero typographique géant à titres serif, engagements en liste à filets ; frise de tuiles plates ; chiffres en ligne monospace ; travaux en sommaire à filets ; à propos avec lettrine et citation ; communes en tableau de distances ; angles vifs, sans ombre |
